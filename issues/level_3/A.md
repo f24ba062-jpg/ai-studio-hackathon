@@ -43,7 +43,7 @@
 
 ```html
 <div class="spot-card">
-    <div class="spot-image">草津温泉湯畑</div>  <!-- ← ここを動画埋め込みに変更 -->
+    <div class="spot-image"><img src="./images/A_2.png"></div>  <!-- ← ここを動画埋め込みに変更 -->
     <div class="spot-content">
         <h3>草津温泉</h3>
         <p>日本三名泉の一つ。湯畑を中心に広がる温泉街は、昔ながらの風情を残しています。</p>
