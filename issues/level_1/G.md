@@ -27,7 +27,7 @@
 
 ```css
 .hero {
-    background: linear-gradient(135deg, #667ea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     /* ↑ カラーコードを確認してみましょう */
     color: white;
     text-align: center;
