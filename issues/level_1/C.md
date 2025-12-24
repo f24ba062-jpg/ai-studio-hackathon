@@ -29,7 +29,7 @@
 ```html
 <div class="stat-item">
     <div class="stat-number">4.5</div>
-    <div class="stat-label">平均評化</div>
+    <div class="stat-label">平均評価</div>
     <!-- ↑ 「化」を「価」に修正しましょう -->
 </div>
 ```
