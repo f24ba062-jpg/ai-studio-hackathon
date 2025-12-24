@@ -30,7 +30,7 @@ function displayTopSpots(spots) {
     const listElement = document.getElementById('topSpotsList');
     // ...
     spots.forEach((spot, index) => {
-        const rank = index; // 0から始まっている
+        const rank = index + 2; // 0から始まっている
         const medal = getMedal(rank);
         // ...
         item.innerHTML = `

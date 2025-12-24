@@ -27,7 +27,7 @@ CTAセクション（ユーザーに行動を促すボタンエリア）の「�
 `frontend/promotion.html` 262行目付近
 
 ```html
-<a href="event.html" class="cta-button" style="background: #4ecdc4; margin-left: 15px;">イベント情報を見る</a>
+<a href="events.html" class="cta-button" style="background: #4ecdc4; margin-left: 15px;">イベント情報を見る</a>
 <!-- ↑ リンク先のファイル名を確認しましょう -->
 ```
 
